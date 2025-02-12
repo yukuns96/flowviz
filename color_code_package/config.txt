@@ -1,0 +1,5 @@
+path_in     ../path1/
+path_out    ../color_code_images_cpp/
+integration_length      20
+number_colored_frames   2
+integration_option      max
